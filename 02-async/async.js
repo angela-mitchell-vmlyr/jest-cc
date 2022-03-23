@@ -7,6 +7,4 @@ const fetchData = async (id) => {
     return results.data;
 }
 
-fetchData(1);
-
 module.exports = fetchData;
