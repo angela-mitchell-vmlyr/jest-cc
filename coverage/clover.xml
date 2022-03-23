@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1648058506934" clover="3.2.0">
-  <project timestamp="1648058506934" name="All files">
-    <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="13" coveredelements="13" complexity="0" loc="10" ncloc="10" packages="2" files="2" classes="2"/>
+<coverage generated="1648060668166" clover="3.2.0">
+  <project timestamp="1648060668167" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="14" coveredelements="14" complexity="0" loc="11" ncloc="11" packages="2" files="2" classes="2"/>
     <package name="01-matchers">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <file name="sum.js" path="/Users/amitchell2/tutorials/unit-testing/jest-cc/01-matchers/sum.js">
@@ -14,14 +14,15 @@
       </file>
     </package>
     <package name="02-async">
-      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="async.js" path="/Users/amitchell2/tutorials/unit-testing/jest-cc/02-async/async.js">
-        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
-        <line num="10" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
   </project>
